@@ -1,2 +1,2 @@
 # spring-cloud-zuul
-How to configure SpringCloud Zuul – Routing and Filtering | SpringBoot
+Configure SpringCloud Zuul – Routing and Filtering | SpringBoot
